@@ -25,7 +25,6 @@ dots-python>=1.0.0
 
 # WooCommerce Integration
 woocommerce
-python-woocommerce
 
 # Database Support (Optional)
 sqlalchemy>=2.0.0
