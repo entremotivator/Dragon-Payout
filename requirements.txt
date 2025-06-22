@@ -24,8 +24,8 @@ pytz>=2023.3
 dots-python>=1.0.0
 
 # WooCommerce Integration
-woocommerce>=3.0.0
-python-woocommerce>=1.2.1
+woocommerce
+python-woocommerce
 
 # Database Support (Optional)
 sqlalchemy>=2.0.0
